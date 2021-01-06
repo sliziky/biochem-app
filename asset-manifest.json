@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/biochem-app/static/css/main.b1eddd96.chunk.css",
-    "main.js": "/biochem-app/static/js/main.c7c1fb6c.chunk.js",
-    "main.js.map": "/biochem-app/static/js/main.c7c1fb6c.chunk.js.map",
+    "main.js": "/biochem-app/static/js/main.de2ebc4e.chunk.js",
+    "main.js.map": "/biochem-app/static/js/main.de2ebc4e.chunk.js.map",
     "runtime-main.js": "/biochem-app/static/js/runtime-main.30b7cb8e.js",
     "runtime-main.js.map": "/biochem-app/static/js/runtime-main.30b7cb8e.js.map",
-    "static/js/2.d3307729.chunk.js": "/biochem-app/static/js/2.d3307729.chunk.js",
-    "static/js/2.d3307729.chunk.js.map": "/biochem-app/static/js/2.d3307729.chunk.js.map",
+    "static/js/2.32b9738a.chunk.js": "/biochem-app/static/js/2.32b9738a.chunk.js",
+    "static/js/2.32b9738a.chunk.js.map": "/biochem-app/static/js/2.32b9738a.chunk.js.map",
     "index.html": "/biochem-app/index.html",
     "static/css/main.b1eddd96.chunk.css.map": "/biochem-app/static/css/main.b1eddd96.chunk.css.map",
-    "static/js/2.d3307729.chunk.js.LICENSE.txt": "/biochem-app/static/js/2.d3307729.chunk.js.LICENSE.txt"
+    "static/js/2.32b9738a.chunk.js.LICENSE.txt": "/biochem-app/static/js/2.32b9738a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30b7cb8e.js",
-    "static/js/2.d3307729.chunk.js",
+    "static/js/2.32b9738a.chunk.js",
     "static/css/main.b1eddd96.chunk.css",
-    "static/js/main.c7c1fb6c.chunk.js"
+    "static/js/main.de2ebc4e.chunk.js"
   ]
 }
