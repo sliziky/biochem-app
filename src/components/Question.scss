@@ -1,0 +1,51 @@
+.mainStack {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  margin-top: 10%;
+}
+.mainStack >h2 {
+  text-align: center;
+}
+
+.buttonRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.buttonRow > p {
+  margin-left: 15px;
+  width: 15px;
+}
+
+.buttonRow > button {
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+  flex-grow: 3;
+  height: 80px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .buttonRow > button {
+    font-size: 12px !important;
+    color: black !important;;
+    font-weight: bold !important;;
+    flex-grow: 3 !important;
+  }
+  .mainStack {
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    margin-top: 10% !important;
+    width: 100% !important;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+  }
+}

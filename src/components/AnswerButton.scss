@@ -1,0 +1,21 @@
+.activeButton {
+  background-color: #e404ff !important;
+}
+
+
+.defaultButton {
+  color: black;
+  background-color: #e7cf05 !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .defaultButton {
+    color: black !important;
+    background-color: #e7cf05 !important;
+  }
+  .activeButton {
+    color: black !important;
+    background-color: #e404ff !important;
+  }
+}
